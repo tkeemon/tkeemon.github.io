@@ -1,0 +1,3 @@
+[submodule "legoCad"]
+	path = legoCad
+	url = git://github.com/tkeemon/legoCad.git
