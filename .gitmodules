@@ -1,3 +1,6 @@
 [submodule "legoCad"]
 	path = legoCad
 	url = https://github.com/tkeemon/legoCad.git
+[submodule "amandaThesisCountdown"]
+	path = amandaThesisCountdown
+	url = https://github.com/tkeemon/amandaThesisCountdown
